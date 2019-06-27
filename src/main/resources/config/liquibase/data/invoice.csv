@@ -1,0 +1,11 @@
+id;date;details;status;payment_method;payment_date;payment_amount;code;order_id
+1;2019-06-27T06:30:25;Soft Fresh payment;ISSUED;CREDIT_CARD;2019-06-27T02:29:31;43633;auxiliary Strategist Arizona;4
+2;2019-06-26T10:28:15;Tuvalu;ISSUED;CASH_ON_DELIVERY;2019-06-26T16:45:10;21680;heuristic Orchestrator Naira;4
+3;2019-06-26T10:13:50;Unbranded Plastic Chips Brand Regional;ISSUED;PAYPAL;2019-06-26T20:43:46;38826;Persevering analyzing;4
+4;2019-06-26T08:28:23;Architect;CANCELLED;CASH_ON_DELIVERY;2019-06-26T09:59:46;7620;Usability models New Mexico;10
+5;2019-06-26T21:49:14;Accountability;PAID;CREDIT_CARD;2019-06-26T17:35:57;74957;redefine transmitting;6
+6;2019-06-26T11:44:19;Bypass;PAID;CREDIT_CARD;2019-06-26T12:20:56;53434;parse Customer Rhode Island;8
+7;2019-06-26T09:11:03;navigating Ergonomic Falls;PAID;CREDIT_CARD;2019-06-27T02:22:15;87822;calculate Fantastic Concrete Computer Baby;5
+8;2019-06-26T19:22:15;transmit Gabon;ISSUED;CREDIT_CARD;2019-06-26T13:44:06;78466;payment digital;10
+9;2019-06-27T04:35:07;Industrial seamless;CANCELLED;PAYPAL;2019-06-26T23:30:00;54744;Spurs Regional;3
+10;2019-06-26T16:55:42;SMS Data;CANCELLED;CREDIT_CARD;2019-06-26T08:20:16;62080;frictionless orchid;6

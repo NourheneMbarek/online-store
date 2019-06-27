@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "tn.sandh.stage2019.exemple2",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "Exemple2",
+    "packageName": "tn.sandh.stage2019.exemple2",
+    "packageFolder": "tn/sandh/stage2019/exemple2",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWUyZDdiZWVjMDZlYjAzNzNlNDZhZjM2ZDZkZWJhZThhZDlmYjExZjY2MTA0NjBiY2FlNTRmODBkZDM3YjdlMjkyMWQ0N2JkNTBjZjAyYjEzNzk0ZTQ2ZTY1YTY3MzJkMjk5YjBkMDUzMGJjOGVkZjZhZWY0NDYzODhkZjg1Y2E=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"]
+  }
+}

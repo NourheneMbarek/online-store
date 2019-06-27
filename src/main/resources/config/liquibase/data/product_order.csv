@@ -1,0 +1,11 @@
+id;placed_date;status;code;customer_id
+1;2019-06-26T17:04:40;COMPLETED;Cambridgeshire Norfolk Island;7
+2;2019-06-27T03:56:52;COMPLETED;invoice multi-byte;7
+3;2019-06-26T22:32:32;COMPLETED;parsing Investment Account;9
+4;2019-06-26T08:47:23;CANCELLED;yellow;4
+5;2019-06-27T07:25:15;PENDING;robust withdrawal generate;7
+6;2019-06-27T07:17:59;CANCELLED;Solomon Islands Dollar;4
+7;2019-06-26T16:45:49;PENDING;China;5
+8;2019-06-26T13:50:37;PENDING;Cotton Robust;6
+9;2019-06-26T23:40:44;PENDING;application Configurable iterate;6
+10;2019-06-26T19:43:56;COMPLETED;Fantastic Small Frozen Salad bypassing;4

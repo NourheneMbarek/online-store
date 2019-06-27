@@ -1,0 +1,10 @@
+{
+  "exemple2App": {
+    "Gender": {
+      "null": "",
+      "MALE": "MALE",
+      "FEMALE": "FEMALE",
+      "OTHER": "OTHER"
+    }
+  }
+}
